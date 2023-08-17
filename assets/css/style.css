@@ -716,6 +716,9 @@ body
 .footer-dorp-langue:hover .footer-hide-checkbox{
         display: none;
 }
+.footer-langue-span{
+        margin-left: 20%;
+}
     
 }
 
